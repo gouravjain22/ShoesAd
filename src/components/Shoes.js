@@ -19,13 +19,13 @@ const Shoes = () => {
             <p>Also Available On</p>
   
             <div className="brand-icons">
-              <img src="/images/amazon.png" alt="amazon-logo" />
-              <img src="/images/flipkart.png" alt="flipkart-logo" />
+              <img src="https://wosu.org/wp-content/uploads/2020/04/Amazon-Logo-Transparent-PNG.png" alt="amazon-logo" />
+              <img src="https://stockarea.io/blogs/wp-content/uploads/2021/11/flipkart-logo-39906-1.png" alt="flipkart-logo" />
             </div>
           </div>
         </div>
         <div className="hero-image">
-          <img src="/images/shoe.png" alt="shoe" />
+          <img src="https://cdn.pixabay.com/photo/2013/07/12/18/20/shoes-153310_1280.png" alt="shoe" />
         </div>
       </main>
     );
