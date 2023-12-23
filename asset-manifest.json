@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shoes-ad/static/css/main.2843b589.css",
+    "main.js": "/shoes-ad/static/js/main.b9002d99.js",
+    "static/js/787.352ced46.chunk.js": "/shoes-ad/static/js/787.352ced46.chunk.js",
+    "index.html": "/shoes-ad/index.html",
+    "main.2843b589.css.map": "/shoes-ad/static/css/main.2843b589.css.map",
+    "main.b9002d99.js.map": "/shoes-ad/static/js/main.b9002d99.js.map",
+    "787.352ced46.chunk.js.map": "/shoes-ad/static/js/787.352ced46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2843b589.css",
+    "static/js/main.b9002d99.js"
+  ]
+}
