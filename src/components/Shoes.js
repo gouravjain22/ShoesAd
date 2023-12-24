@@ -1,8 +1,8 @@
-
+import './Shoes.css';
 const Shoes = () => {
     return (
       <main className="hero container">
-        <div className="hero-content">
+        <div className="text-content">
           <h1>Give Your Feet the Finest Comfort</h1>
           <p>
             YOUR FEET DESERVE THE BEST AND WE’RE HERE TO HELP YOU WITH OUR
@@ -24,7 +24,7 @@ const Shoes = () => {
             </div>
           </div>
         </div>
-        <div className="hero-image">
+        <div className="shoe-image">
           <img src="https://cdn.pixabay.com/photo/2013/07/12/18/20/shoes-153310_1280.png" alt="shoe" />
         </div>
       </main>

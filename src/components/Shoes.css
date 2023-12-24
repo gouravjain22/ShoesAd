@@ -1,0 +1,56 @@
+.text-content{
+    width: 50%;
+    float: left;
+    overflow-x: hidden;
+}
+.shoe-image{
+    width: 50%;
+    float: right;
+    overflow: hidden;
+}
+.shoe-image img{
+    max-width: 100%; /* Make the image responsive */
+    height: auto;
+    display: block;
+    margin: 0 auto; /* Center the image horizontally */
+} 
+.text-content h1 {
+    font-size: 5em; /* Adjust the font size as needed */
+    margin-bottom: 10px; /* Add some space below the heading */
+  }
+  
+  .text-content p {
+    font-size: 1.2em; /* Adjust the font size as needed */
+    line-height: 1.5; /* Set the line height for better readability */
+    margin-bottom: 20px; /* Add some space below the paragraph */
+  }
+.shopping {
+    margin-top: 30px; /* Add space between buttons and the shopping section */
+  }
+  
+  .shopping p {
+    font-size: 1.2em; /* Adjust the font size as needed */
+    margin-bottom: 10px; /* Add space below the "Also Available On" text */
+  }
+  
+  .brand-icons img {
+    width: 50px; /* Adjust the width of the brand logos as needed */
+    margin: 0 10px; /* Add space between logos */
+  }
+  .hero-btn {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px; /* Add space between buttons and next section */
+  }
+  
+  .hero-btn button {
+    margin: 0 10px; /* Add space between buttons */
+    padding: 10px 20px; /* Adjust padding for button size */
+    font-size: 1em; /* Adjust the font size as needed */
+  }
+  
+  .secondary-btn {
+    /* Add specific styles for the secondary button if needed */
+    background-color: #ddd;
+    color: #333;
+  }

@@ -18,7 +18,7 @@
 }
 .desktopMenuListItem{
     margin: 1rem;
-    cursor: pointer;
+    cursor: pointer; 
 }
 .desktopMenuListItem:hover {
     color: yellow;
@@ -26,13 +26,12 @@
     border-bottom: 3px solid yellow;
 }
 
-.desktopMenuImg{
+.desktopMenu img{
     object-fit: cover;
     height: 1rem;
     width: 1rem;
 
 }
-
 .desktopMenuBtn{
     background: white;
     color: black;
