@@ -6,10 +6,6 @@
   height: 40vmin;
   pointer-events: none;
 }
-.logo img{
-  width: 100px; /* Adjust the width of the brand logos as needed */
-  margin: 0 0px; /* Add space between logos */
-}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
